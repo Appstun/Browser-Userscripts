@@ -1,5 +1,3 @@
-# Tampermonkey Scripts
-
 ## Installation
 
 Open an install link with a compatible userscript manager (such as [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)) installed.
