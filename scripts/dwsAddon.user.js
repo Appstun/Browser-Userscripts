@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DWService Addon
-// @namespace    https://github.com/Appstun/TamperMonkey-Scripts
+// @namespace    https://github.com/Appstun/Browser-Userscripts
 // @version      0.5.19
 // @description  Adds quality-of-life features to DWService remote desktop and shell pages. (Works as of 08.07.2026)
 // @author       Appstun
@@ -8,10 +8,10 @@
 // @match        https://access.dwservice.net/session.dw*
 // @run-at       document-idle
 // @grant        none
-// @homepageURL  https://github.com/Appstun/TamperMonkey-Scripts
-// @supportURL   https://github.com/Appstun/TamperMonkey-Scripts/issues
-// @downloadURL  https://raw.githubusercontent.com/Appstun/TamperMonkey-Scripts/main/scripts/dwsAddon.user.js
-// @updateURL    https://raw.githubusercontent.com/Appstun/TamperMonkey-Scripts/main/scripts/dwsAddon.user.js
+// @homepageURL  https://github.com/Appstun/Browser-Userscripts
+// @supportURL   https://github.com/Appstun/Browser-Userscripts/issues
+// @downloadURL  https://github.com/Appstun/Browser-Userscripts/raw/main/scripts/dwsAddon.user.js
+// @updateURL    https://github.com/Appstun/Browser-Userscripts/raw/main/scripts/dwsAddon.user.js
 // ==/UserScript==
 
 (function () {
